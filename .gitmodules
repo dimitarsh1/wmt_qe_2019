@@ -4,3 +4,6 @@
 [submodule "pipeline/subword-nmt"]
 	path = pipeline/subword-nmt
 	url = https://github.com/rsennrich/subword-nmt.git
+[submodule "bert_pipeline/subword-nmt"]
+	path = bert_pipeline/subword-nmt
+	url = https://github.com/rsennrich/subword-nmt.git
